@@ -3,8 +3,8 @@ This is a Single Page Application (SPA) built using React for an online clothing
 
 # Features
 
-🛍️ Product Listings – Browse a variety of clothing items.
-🛒 Shopping Cart – Add, remove, and manage items in the cart.
-🏷️ Product Details Page – View detailed information about each product.
-🔐 User Authentication – Signup/Login functionality.
-🎨 Responsive Design – Fully optimized for desktop and mobile devices.
+| 🛍️ Product Listings    | Browse a variety of clothing items. |
+| 🛒 Shopping Cart       | Add, remove, and manage items in the cart. |
+| 🏷️ Product Details Page        | View detailed information about each product. |
+| 🔐 User Authentication       | Signup/Login functionality. |
+| 🎨 Responsive Design       | Fully optimized for desktop. |
